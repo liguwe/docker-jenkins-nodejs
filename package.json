@@ -21,7 +21,7 @@
     "node": ">=8.9.0"
   },
   "scripts": {
-    "start": "./node_modules/.bin/egg-scripts start --workers=1",
+    "start": "./node_modules/.bin/egg-scripts start --port=8001 --workers=1",
     "stop": "./node_modules/.bin/egg-scripts stop",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
