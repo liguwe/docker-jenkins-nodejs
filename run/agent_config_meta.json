@@ -1,0 +1,266 @@
+{
+  "keys": "/Users/liguangwei/code/test/docker-jenkins-nodejs/config/config.default.js",
+  "middleware": "/Users/liguangwei/code/test/docker-jenkins-nodejs/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-watcher/config/config.default.js",
+    "eventSources": {
+      "default": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-multipart/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-static/config/config.prod.js",
+    "maxFiles": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-static/config/config.default.js",
+    "maxAge": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-static/config/config.prod.js"
+  },
+  "view": {
+    "root": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+  "name": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "version": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "description": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "private": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "stop": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "dev": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "debug": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "test": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "cov": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "lint": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "ci": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "autod": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "url": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "license": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "strict": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "depth": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "env": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "level": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "coreLogger": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "logging": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "port": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/liguangwei/code/test/docker-jenkins-nodejs/node_modules/egg/config/config.default.js"
+}
