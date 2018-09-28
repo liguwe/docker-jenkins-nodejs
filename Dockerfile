@@ -17,7 +17,7 @@ RUN npm i --production
 COPY ./  /var/nodejs/docker-jenkins-nodejs
 
 # 暴露容器端口
-EXPOSE 7001
+EXPOSE 8001
 
 # 启动node应用
 CMD npm start
