@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+pwd
+echo '-----------'
 projectName="${JOB_NAME}"
 dockerImageName=${projectName}-${BUILD_TIMESTAMP}
 
